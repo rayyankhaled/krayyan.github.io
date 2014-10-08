@@ -1,0 +1,17 @@
+.intro-message {
+	text-align: center;
+	padding-top: 30%;
+	padding-bottom: 10%;
+	color: #fff;
+}
+body {
+	background: url(photo.png) no-repeat center center;
+}
+.signup-form {
+	color: #fff;
+}
+#mc_embed_signup {
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+}
